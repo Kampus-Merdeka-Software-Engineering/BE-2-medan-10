@@ -1,7 +1,7 @@
 const sequelize = require ("sequelize");
 
 const db = new sequelize("opulent","faryz","gampang123",{
-    host:"localhost",
+    host:"happy-long-johns-deerCyclicDB",
     dialect:"mysql",
     port:3306,
 });
